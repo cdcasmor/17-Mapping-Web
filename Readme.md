@@ -2,9 +2,6 @@
 [![built with HTML5](https://img.shields.io/badge/built%20with-HTML5-yellowgreen.svg)](https://www.python.org/)
 [![built with HTML5](https://img.shields.io/badge/built%20with-javascript-brightgreen.svg)](https://www.python.org/)
 
-
-# Unit 17 | Assignment - Visualizing Data with Leaflet
-
 ## Background
 
 ![1-Logo](Images/1-Logo.png)
