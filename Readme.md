@@ -79,19 +79,3 @@ You're so excited to be in your new position you really want to do something tha
 
   * Data Clustering
     ![Cluster](Images/Cluster.png)
-
-### Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Completion of all steps in chosen level
-
-* Visual attraction
-
-* Professionalism
-
-**Good luck!**
-
-## Copyright
-
-Coding Boot Camp (C) 2016. All Rights Reserved.
